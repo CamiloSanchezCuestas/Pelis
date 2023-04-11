@@ -1,0 +1,45 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.first
+{
+    background-image: linear-gradient(to right,black,tomato,yellow);
+    height: 120px;
+}
+
+.first a
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    list-style: none;
+    margin-top: -10px;
+}
+.first a:hover
+{
+    color: black;
+}
+.btn
+{
+    margin-left: 1300px;
+    width: 11%;
+    height: 40px;
+    margin-top: -40px;
+    position: absolute;
+    border-radius: 20px;
+    border: none;
+}
+.btn:hover
+{
+    background-color: tomato;
+    color: white;
+}
+.first img {
+    margin-left: 60px;
+    margin-top: 33px;
+}
